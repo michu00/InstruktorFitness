@@ -1,0 +1,2 @@
+include ':app', ':android-beacon-library-2.16.3'
+rootProject.name='Application1'
